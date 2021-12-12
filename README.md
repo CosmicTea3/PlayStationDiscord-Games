@@ -62,7 +62,7 @@ Games which are supported for [PlayStationDiscord](https://github.com/Tustin/Pla
 |<img src="ps4/CUSA08724_00.png?raw=true" width="100" height="100">|Battlefield™ V                                                |
 |<img src="ps4/CUSA08829_00.png?raw=true" width="100" height="100">|Call of Duty®: Modern Warfare®                                |
 |<img src="ps4/CUSA05770_00.png?raw=true" width="100" height="100">|STAR WARS™ Battlefront™ II                                    |
-|<img src="ps4/CUSA05877_00.png?raw=true" width="100" height="100">|Persona 5                                                     |
+|<img src="ps4/CUSA17416_00.png?raw=true" width="100" height="100">|Persona 5 Royal                                               |
 |<img src="ps4/CUSA02299_00.png?raw=true" width="100" height="100">|Marvel's Spider-Man                                           |
 |<img src="ps4/CUSA07408_00.png?raw=true" width="100" height="100">|God of War                                                    |
 |<img src="ps4/CUSA00744_00.png?raw=true" width="100" height="100">|Minecraft                                                     |
